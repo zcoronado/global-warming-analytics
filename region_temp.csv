@@ -1,0 +1,329 @@
+year,region,avg_temp
+1980,Africa,24.02
+1980,Asia,18.29
+1980,Caribbean,25.4
+1980,Central America,24.58
+1980,Europe,7.44
+1980,North America,0.91
+1980,Oceania,24.75
+1980,South America,21.21
+1981,Africa,23.93
+1981,Asia,18.34
+1981,Caribbean,25.3
+1981,Central America,24.32
+1981,Europe,8.05
+1981,North America,1.38
+1981,Oceania,24.8
+1981,South America,20.97
+1982,Africa,23.92
+1982,Asia,17.91
+1982,Caribbean,25.2
+1982,Central America,24.54
+1982,Europe,8.44
+1982,North America,0.09
+1982,Oceania,24.62
+1982,South America,21.1
+1983,Africa,24.31
+1983,Asia,18.17
+1983,Caribbean,25.45
+1983,Central America,24.88
+1983,Europe,8.59
+1983,North America,0.28
+1983,Oceania,24.81
+1983,South America,21.25
+1984,Africa,24.06
+1984,Asia,17.92
+1984,Caribbean,24.96
+1984,Central America,24.08
+1984,Europe,8.03
+1984,North America,0.39
+1984,Oceania,24.78
+1984,South America,20.7
+1985,Africa,24.01
+1985,Asia,18.19
+1985,Caribbean,24.89
+1985,Central America,24.35
+1985,Europe,7.42
+1985,North America,0.51
+1985,Oceania,24.81
+1985,South America,20.94
+1986,Africa,23.96
+1986,Asia,18.16
+1986,Caribbean,25.09
+1986,Central America,24.38
+1986,Europe,7.94
+1986,North America,0.73
+1986,Oceania,24.78
+1986,South America,21.09
+1987,Africa,24.45
+1987,Asia,18.43
+1987,Caribbean,25.65
+1987,Central America,24.87
+1987,Europe,7.57
+1987,North America,1.01
+1987,Oceania,24.75
+1987,South America,21.42
+1988,Africa,24.12
+1988,Asia,18.44
+1988,Caribbean,25.41
+1988,Central America,24.69
+1988,Europe,8.5
+1988,North America,0.95
+1988,Oceania,25
+1988,South America,20.97
+1989,Africa,23.84
+1989,Asia,18.29
+1989,Caribbean,25.11
+1989,Central America,24.45
+1989,Europe,9.03
+1989,North America,0.36
+1989,Oceania,24.75
+1989,South America,20.88
+1990,Africa,24.23
+1990,Asia,18.59
+1990,Caribbean,25.45
+1990,Central America,24.68
+1990,Europe,9.14
+1990,North America,0.81
+1990,Oceania,24.93
+1990,South America,21.08
+1991,Africa,24.1
+1991,Asia,18.38
+1991,Caribbean,25.46
+1991,Central America,24.76
+1991,Europe,8.28
+1991,North America,1
+1991,Oceania,24.73
+1991,South America,21.12
+1992,Africa,24.01
+1992,Asia,17.87
+1992,Caribbean,25.31
+1992,Central America,24.7
+1992,Europe,8.78
+1992,North America,0.47
+1992,Oceania,24.65
+1992,South America,20.95
+1993,Africa,24.11
+1993,Asia,18.11
+1993,Caribbean,25.5
+1993,Central America,24.64
+1993,Europe,8.22
+1993,North America,0.67
+1993,Oceania,24.55
+1993,South America,21.04
+1994,Africa,24.03
+1994,Asia,18.56
+1994,Caribbean,25.47
+1994,Central America,24.78
+1994,Europe,9.11
+1994,North America,1.01
+1994,Oceania,24.66
+1994,South America,21.26
+1995,Africa,24.28
+1995,Asia,18.56
+1995,Caribbean,25.56
+1995,Central America,24.8
+1995,Europe,8.65
+1995,North America,1.03
+1995,Oceania,24.84
+1995,South America,21.24
+1996,Africa,24.18
+1996,Asia,18.41
+1996,Caribbean,25.24
+1996,Central America,24.35
+1996,Europe,7.83
+1996,North America,0.77
+1996,Oceania,24.88
+1996,South America,20.99
+1997,Africa,24.31
+1997,Asia,18.41
+1997,Caribbean,25.56
+1997,Central America,24.86
+1997,Europe,8.63
+1997,North America,0.9
+1997,Oceania,24.71
+1997,South America,21.51
+1998,Africa,24.64
+1998,Asia,19.14
+1998,Caribbean,25.95
+1998,Central America,25.08
+1998,Europe,8.61
+1998,North America,1.8
+1998,Oceania,25.03
+1998,South America,21.56
+1999,Africa,24.25
+1999,Asia,19.01
+1999,Caribbean,25.45
+1999,Central America,24.23
+1999,Europe,9.04
+1999,North America,1.18
+1999,Oceania,24.88
+1999,South America,20.97
+2000,Africa,24.2
+2000,Asia,18.7
+2000,Caribbean,25.27
+2000,Central America,24.44
+2000,Europe,9.43
+2000,North America,1.09
+2000,Oceania,24.89
+2000,South America,20.92
+2001,Africa,24.41
+2001,Asia,19.03
+2001,Caribbean,25.54
+2001,Central America,24.82
+2001,Europe,8.83
+2001,North America,1.34
+2001,Oceania,25
+2001,South America,21.23
+2002,Africa,24.55
+2002,Asia,18.9
+2002,Caribbean,25.68
+2002,Central America,24.98
+2002,Europe,9.27
+2002,North America,1.32
+2002,Oceania,24.98
+2002,South America,21.26
+2003,Africa,24.59
+2003,Asia,18.72
+2003,Caribbean,25.72
+2003,Central America,25.04
+2003,Europe,8.98
+2003,North America,1.5
+2003,Oceania,24.94
+2003,South America,21.31
+2004,Africa,24.54
+2004,Asia,18.93
+2004,Caribbean,25.45
+2004,Central America,24.91
+2004,Europe,8.79
+2004,North America,1.02
+2004,Oceania,24.95
+2004,South America,21.3
+2005,Africa,24.71
+2005,Asia,18.76
+2005,Caribbean,25.67
+2005,Central America,24.84
+2005,Europe,8.65
+2005,North America,1.8
+2005,Oceania,25.03
+2005,South America,21.27
+2006,Africa,24.5
+2006,Asia,18.9
+2006,Caribbean,25.63
+2006,Central America,24.88
+2006,Europe,9.07
+2006,North America,1.88
+2006,Oceania,24.85
+2006,South America,21.37
+2007,Africa,24.53
+2007,Asia,18.95
+2007,Caribbean,25.51
+2007,Central America,24.76
+2007,Europe,9.49
+2007,North America,1.39
+2007,Oceania,25
+2007,South America,20.97
+2008,Africa,24.41
+2008,Asia,18.77
+2008,Caribbean,25.26
+2008,Central America,24.71
+2008,Europe,9.38
+2008,North America,1.05
+2008,Oceania,24.85
+2008,South America,21.15
+2009,Africa,24.68
+2009,Asia,18.98
+2009,Caribbean,25.6
+2009,Central America,25.1
+2009,Europe,9.2
+2009,North America,1.24
+2009,Oceania,24.86
+2009,South America,21.37
+2010,Africa,24.93
+2010,Asia,19.47
+2010,Caribbean,25.62
+2010,Central America,24.75
+2010,Europe,8.39
+2010,North America,1.89
+2010,Oceania,24.92
+2010,South America,21.35
+2011,Africa,24.48
+2011,Asia,18.57
+2011,Caribbean,25.46
+2011,Central America,24.84
+2011,Europe,9.34
+2011,North America,1.56
+2011,Oceania,24.85
+2011,South America,21.19
+2012,Africa,24.45
+2012,Asia,18.82
+2012,Caribbean,25.53
+2012,Central America,24.9
+2012,Europe,9.08
+2012,North America,1.79
+2012,Oceania,24.86
+2012,South America,21.38
+2013,Africa,24.53
+2013,Asia,18.96
+2013,Caribbean,25.65
+2013,Central America,24.94
+2013,Europe,9.11
+2013,North America,1.09
+2013,Oceania,25.04
+2013,South America,21.22
+2014,Africa,24.56
+2014,Asia,18.97
+2014,Caribbean,25.74
+2014,Central America,25
+2014,Europe,9.87
+2014,North America,1.42
+2014,Oceania,24.94
+2014,South America,21.51
+2015,Africa,24.72
+2015,Asia,19.2
+2015,Caribbean,26.08
+2015,Central America,25.27
+2015,Europe,9.73
+2015,North America,1.58
+2015,Oceania,24.92
+2015,South America,21.81
+2016,Africa,24.87
+2016,Asia,19.33
+2016,Caribbean,25.94
+2016,Central America,25.34
+2016,Europe,9.47
+2016,North America,2.35
+2016,Oceania,25.22
+2016,South America,21.56
+2017,Africa,24.7
+2017,Asia,19.13
+2017,Caribbean,25.81
+2017,Central America,25.12
+2017,Europe,9.42
+2017,North America,1.82
+2017,Oceania,25.16
+2017,South America,21.62
+2018,Africa,24.58
+2018,Asia,19.32
+2018,Caribbean,25.56
+2018,Central America,24.68
+2018,Europe,9.89
+2018,North America,1.34
+2018,Oceania,25.08
+2018,South America,21.3
+2019,Africa,24.67
+2019,Asia,19.33
+2019,Caribbean,25.89
+2019,Central America,25.11
+2019,Europe,9.95
+2019,North America,1.6
+2019,Oceania,25.09
+2019,South America,21.57
+2020,Africa,24.66
+2020,Asia,19.19
+2020,Caribbean,25.93
+2020,Central America,25.32
+2020,Europe,10.11
+2020,North America,1.62
+2020,Oceania,25.18
+2020,South America,21.67
