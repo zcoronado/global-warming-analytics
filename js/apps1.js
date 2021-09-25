@@ -102,7 +102,7 @@ textWrapper.append("text")
   .attr("class", "title")
   .attr("x", 0)
   .attr("y", -outerRadius - 40)
-  .text("Global Temp Anomaly Graph");
+  .text("Temp Anomaly Graph");
 
 //Subtitle:
 textWrapper.append("text")
