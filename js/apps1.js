@@ -9,8 +9,8 @@ var margin = {
   bottom: 120,
   left: 20
 };
-var width = 400 - margin.left - margin.right;
-var height = 500 - margin.top - margin.bottom;
+var width = 800 - margin.left - margin.right;
+var height = 1000 - margin.top - margin.bottom;
 
 var domLow = -1.5,  //-15, low end of data
   domHigh = 1.25,  //30, high end of data
